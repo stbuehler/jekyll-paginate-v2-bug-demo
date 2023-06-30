@@ -1,0 +1,7 @@
+pagination:
+  enabled: true
+
+plugins:
+  - jekyll-paginate-v2
+
+source: source
